@@ -23,6 +23,12 @@ Endpoint: https://f9ge109rwk.execute-api.us-east-1.amazonaws.com/v1/upload
 
 As you can see after call the post request, I'm returning the status code and also the body of request if sucess or failure:
 
+![image](https://user-images.githubusercontent.com/25517708/219968103-ca2b2f8a-7dfb-4787-9bec-051d38af267c.png)
+
+# **Conclusion**
+
+As you can see this kind of integration is powerfull when we need to recieve some files and persist it on our database instance.
+
 
 
 

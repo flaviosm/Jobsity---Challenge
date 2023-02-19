@@ -19,7 +19,6 @@ To make sure if our integration is working well, I created a postman post reques
 
 Endpoint: https://f9ge109rwk.execute-api.us-east-1.amazonaws.com/v1/upload
 
-![image]((/home/flavio/Downloads/jobsity/PostmanRequest.jpg)
 
 
 

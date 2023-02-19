@@ -27,7 +27,7 @@ As you can see after call the post request, I'm returning the status code and al
 
 # **Conclusion**
 
-As you can see this kind of integration is powerfull when we need to recieve some files and persist it on our database instance.
+This kind of integration is powerfull when we need to recieve some files and persist it on our database instance to analyze some information and off course provide a fast way to integrate csv files.
 
 
 

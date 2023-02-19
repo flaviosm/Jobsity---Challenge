@@ -21,6 +21,8 @@ Endpoint: https://f9ge109rwk.execute-api.us-east-1.amazonaws.com/v1/upload
 
 ![PostmanRequest](https://user-images.githubusercontent.com/25517708/219967591-7ad449de-4f5b-4d5d-9b3a-c7245dc1dbe6.jpg)
 
+As you can see after call the post request, I'm returning the status code and also the body of request if sucess or failure:
+
 
 
 

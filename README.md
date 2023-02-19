@@ -9,7 +9,7 @@ The ability to create an AWS Lambda function as an internal handler makes this m
 ![servless](https://user-images.githubusercontent.com/25517708/219963217-a855b02c-98ff-4040-934b-5a7825b9ba65.jpg)
 # **Architecture**
 
-To promote this kind of integration, I had to setup the RDS instance such as My Sql, create the AWS Lambda function to integrate our binary data to My sql database and also the most importante of our integration is the **API Gateway endpoint** to send our trips.csv. Below the image of our integration for this project:
+To promote this kind of integration, I had to setup the RDS instance such as My Sql, create the AWS Lambda function to integrate our binary data to My SQL database and also the most importante of our integration is the **API Gateway endpoint** to send our trips.csv. Below the image of our integration for this project:
 
 ![image](https://user-images.githubusercontent.com/25517708/219961732-60c7acf5-6cd0-4366-90cb-60732ce3fd5d.png)
 

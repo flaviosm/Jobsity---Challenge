@@ -32,7 +32,7 @@ def lambda_handler(event, context):
         rows_duplicate = rows - df.shape[0]
         rows_inserted = df.shape[0]
     
-        df.to_sql('Trip', con = engine, if_exists = 'append', chunksize = 1000, index= False)
+        df.to_sql('Trip', con = engine, if_exists = 'replace', chunksize = 1000, index= False)
         statusCode = 200
         body = {
             'message': 'Sucess Upload',

@@ -19,6 +19,8 @@ To make sure if our integration is working well, I created a postman post reques
 
 Endpoint: https://f9ge109rwk.execute-api.us-east-1.amazonaws.com/v1/upload
 
+![PostmanRequest](https://user-images.githubusercontent.com/25517708/219967591-7ad449de-4f5b-4d5d-9b3a-c7245dc1dbe6.jpg)
+
 
 
 

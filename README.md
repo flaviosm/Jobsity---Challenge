@@ -1,6 +1,11 @@
 # **Introduction**
 
-The AWS Serverless platform allows you to scale very quickly in response to demand. Below is an example of a serverless design that is fully synchronous throughout the application. During periods of extremely high demand, Amazon API Gateway and AWS Lambda will scale in response to your incoming load.
+The AWS Serverless platform allows you to scale very quickly in response to demand. Below is an example of a serverless design that is fully synchronous throughout the application. During periods of extremely high demand, Amazon API Gateway and AWS Lambda will scale in response to your incoming load:
+
+![servless](https://user-images.githubusercontent.com/25517708/219963217-a855b02c-98ff-4040-934b-5a7825b9ba65.jpg)
+
+
+
 
 
 

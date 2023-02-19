@@ -13,9 +13,13 @@ To promote this kind of integration, I had to setup the RDS instance such as My 
 
 ![image](https://user-images.githubusercontent.com/25517708/219961732-60c7acf5-6cd0-4366-90cb-60732ce3fd5d.png)
 
+# **Building request**
 
+To make sure if our integration is working well, I created a postman post request to test it! available the file to import and make this tests on this project postman folder!
 
+Endpoint: https://f9ge109rwk.execute-api.us-east-1.amazonaws.com/v1/upload
 
+![Alt]((/home/flavio/Downloads/jobsity/PostmanRequest.jpg)
 
 
 
